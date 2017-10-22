@@ -83,7 +83,7 @@ end
 
 得到的椒盐噪声图像如下：
 
-![椒盐噪声](img\椒盐噪声.png)
+![椒盐噪声](./img/椒盐噪声.png)
 
 
 
@@ -110,8 +110,8 @@ nlfilter(A,[m n],fun)
 
 > 该程序效果：
 
-![中值滤波效果](img\中值滤波效果.png)
+![中值滤波效果](./img/中值滤波效果.png)
 
 > medfilt2() 效果：
 
-![medfilt2效果](img\medfilt2效果.png)
+![medfilt2效果](./img/medfilt2效果.png)

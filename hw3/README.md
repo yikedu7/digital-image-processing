@@ -55,7 +55,7 @@ end
 
 该算法产生的图像效果如下：
 
-![butterworthFilter](img\butterworthFilter.png)
+![butterworthFilter](./img/butterworthFilter.png)
 
 ### 2. Homomorphic Filter
 
@@ -128,4 +128,4 @@ R=uint8(255*(R-MIN)/range);
 
 这里的算法与第一题一致，就不做重复叙述。得到的最终效果如下图：
 
-![homomorphicFilter](img\homomorphicFilter.png)
+![homomorphicFilter](./img/homomorphicFilter.png)
